@@ -19,7 +19,7 @@
     "express": "^5.1.0",
     "lru-cache": "^11.1.0",
     "mongodb": "^6.19.0",
-    "mongodb-connection-string-url": "^3.0.2",
+    "mongodb-connection-string-url": "^7.0.0",
     "mongodb-log-writer": "^2.4.1",
     "mongodb-redact": "^1.2.0",
     "mongodb-schema": "^12.6.2",
